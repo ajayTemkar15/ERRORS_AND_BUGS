@@ -4,3 +4,4 @@
                                -> Could not open mysql.plugin table. Some plugins may be not loaded
     
     SOLUTION:- GOTO MYSQL Directory Search for BackupFolder and COPY ALL FILES AND PASTE IN MYSQL/data/ folder
+    SOLUTION2:- https://appuals.com/how-to-fix-error-1067-the-process-terminated-unexpectedly/
