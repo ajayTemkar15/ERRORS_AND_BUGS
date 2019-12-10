@@ -1,0 +1,6 @@
+1 > How to Fix Error 1067: ‘The process terminated unexpectedly’
+     XAMP(stoped MYSQL unexpectedly)
+                  ERROR LOG    -> Can't open and lock privilege tables: Table 'mysql.servers' doesn't exist
+                               -> Could not open mysql.plugin table. Some plugins may be not loaded
+    
+    SOLUTION:- GOTO MYSQL Directory Search for BackupFolder and COPY ALL FILES AND PASTE IN MYSQL/data/ folder
